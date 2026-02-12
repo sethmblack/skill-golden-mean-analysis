@@ -1,10 +1,9 @@
 ---
 name: golden-mean-analysis
-description: Find the virtuous middle between two extremes—one of excess, one of deficiency—relative
-  to person and circumstance.
+description: Find the virtuous middle between two extremes—one of excess, one of deficiency—relative to person and circumstance.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - golden-mean-analysis
