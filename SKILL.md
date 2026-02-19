@@ -3,8 +3,9 @@ name: golden-mean-analysis
 description: Find the virtuous middle between two extremes—one of excess, one of deficiency—relative to person and circumstance.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4099
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - golden-mean-analysis
 - writing
